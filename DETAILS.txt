@@ -1,3 +1,4 @@
 Name: SURYA GAYATRI DEVI PERICHARLA
 Roll No: 33
 Section: BSC-CS-C
+Hall Ticket: 230817170104
